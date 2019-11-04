@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mad Libs CS 515</string>
+    <string name="edit_message">enter a message</string>
+    <string name="button_send">send</string>
+    <string name="edit1">a profession</string>
+    <string name="edit2">a person\'s name</string>
+    <string name="edit3">a place</string>
+    <string name="edit4">verb</string>
+    <string name="edit5">noun</string>
+    <string name="edit6">past tense verb</string>
+    <string name="edit7">noun</string>
+    <string name="edit8">past tense verb</string>
+    <string name="sent1">There once was a</string>
+    <string name="sent2">named</string>
+    <string name="sent3">who went to</string>
+    <string name="sent4">to</string>
+    <string name="sent5">but they were interrupted by the</string>
+    <string name="sent6">that</string>
+    <string name="sent7">a</string>
+    <string name="sent8">And they</string>
+    <string name="sent9">happily ever after</string>
+    <string name="sent10">The End</string>
+</resources>
